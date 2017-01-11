@@ -6,7 +6,7 @@
 
 int main()
 {
-	std::cout << "still testing ..." << std::endl;
+	std::cout << "still more testing ..." << std::endl;
 	return 0;
 }
 
