@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-	cout << "testing ..." << endl;
+	cout << "testing Feature 01..." << endl;
 
 	cout << "[" << CommitCount << "]" << endl;
 	cout << "[" << LastCommitHash << "]" << endl;
